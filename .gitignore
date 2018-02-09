@@ -45,4 +45,10 @@
 # visual studio files #
 ######################
 *.vcxproj
+*.suo
+*.sdf
+*.sln
+*.VC
+*.ipch
+
 
