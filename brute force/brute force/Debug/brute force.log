@@ -1,0 +1,7 @@
+﻿  crack.cpp
+c:\users\alex\documents\c++ projects\visual studio 2010\projects\brute force\brute force\des.h(174): warning C4101: 'i': unreferenced local variable
+c:\users\alex\documents\c++ projects\visual studio 2010\projects\brute force\brute force\crack.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\alex\documents\c++ projects\visual studio 2010\projects\brute force\brute force\crack.cpp(46): warning C4101: 'state': unreferenced local variable
+LINK : fatal error LNK1207: incompatible PDB format in 'C:\Users\Alex\Documents\c++ projects\Visual Studio 2010\Projects\brute force\Debug\brute force.pdb'; delete and rebuild
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" exited with code 1207.
