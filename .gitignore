@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Logs and databases #
+######################
+*.tlog
+*.idb
+*.pdb
+
+# build files #
+######################
+*.manifest
+*.lastbuildstate
+
+# visual studio files #
+######################
+*.vcxproj
+
